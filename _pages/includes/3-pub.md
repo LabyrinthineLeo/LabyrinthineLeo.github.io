@@ -1,7 +1,9 @@
 # 📝 Publications 
 
 
-## Representative Work
+## Highlighted Research
+
+### In the year of 2024:
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TEVC 2024</div><img src='images/EMO-NAS-CD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -18,13 +20,20 @@
 </div>
 </div>
 
-## Representative Work
+***
 
-- ``NeurIPS 2024`` ["DisenGCD: A Meta Multigraph-assisted Disentangled Graph Learning Framework for Cognitive Diagnosis"]. Shangshang Yang, Mingyang Chen, Ziwen Wang, **Xiaoshan Yu**, Panpan Zhang, Haiping Ma\*, and Xingyi Zhang,  *in the Proceedings of the Thirty-eighth Conference on Neural Information Processing Systems*, 2024. (<b><font color='red'>CCF-A</font></b>).
 
-- ``NeurIPS 2024`` ["DisenGCD: A Meta Multigraph-assisted Disentangled Graph Learning Framework for Cognitive Diagnosis"]. Shangshang Yang, Mingyang Chen, Ziwen Wang, **Xiaoshan Yu**, Panpan Zhang, Haiping Ma\*, and Xingyi Zhang,  *in the Proceedings of the Thirty-eighth Conference on Neural Information Processing Systems*, 2024. (<b><font color='red'>CCF-A</font></b>).
+## Representative Papers
 
-- ``NeurIPS 2024`` ["DisenGCD: A Meta Multigraph-assisted Disentangled Graph Learning Framework for Cognitive Diagnosis"]. Shangshang Yang, Mingyang Chen, Ziwen Wang, **Xiaoshan Yu**, Panpan Zhang, Haiping Ma\*, and Xingyi Zhang,  *in the Proceedings of the Thirty-eighth Conference on Neural Information Processing Systems*, 2024. (<b><font color='red'>CCF-A</font></b>).
+### In the year of 2024:
+
+- ``NeurIPS 2024`` "DisenGCD: A Meta Multigraph-assisted Disentangled Graph Learning Framework for Cognitive Diagnosis". Shangshang Yang, Mingyang Chen, Ziwen Wang, **Xiaoshan Yu**, Panpan Zhang, Haiping Ma\*, and Xingyi Zhang,  *in the Proceedings of the Thirty-eighth Conference on Neural Information Processing Systems*, 2024. (<b><font color='red'>CCF-A</font></b>). \[[PDF](https://xxx)\]
+
+- ``IJCAI 2024`` "DGCD: An Adaptive Denoising GNN for Group-level Cognitive Diagnosis". Haiping Ma, Siyu Song, Chuan Qin\*, **Xiaoshan Yu**, Limiao Zhang\*, Xingyi Zhang, and Hengshu Zhu,  *in the Proceedings of the Thirty-Third International Joint Conference on Artificial Intelligence*, 2024. (<b><font color='red'>CCF-A</font></b>). \[[PDF](https://www.ijcai.org/proceedings/2024/0250.pdf)\]
+
+- ``WWW 2024`` "HD-KT: Advancing Robust Knowledge Tracing via Anomalous Learning Interaction Detection". Haiping Ma, Yong Yang, Chuan Qin\*, **Xiaoshan Yu**, Shangshang Yang, Xingyi Zhang\* and Hengshu Zhu, *in the Proceedings of the ACM Web Conference 2024*, 2024. (<b><font color='red'>CCF-A</font></b>). \[[PDF](https://dl.acm.org/doi/abs/10.1145/3589334.3645718)\]
+
+### In the year of 2023:
 
 - ``NeurIPS 2023`` "Evolutionary Neural Architecture Search for Transformer in Knowledge Tracing". Shangshang Yang, **Xiaoshan Yu**, Ye Tian, Xueming Yan, Haiping Ma\*, and Xingyi Zhang\*, *in the Proceedings of the Thirty-seventh Conference on Neural Information Processing Systems*, 2023.  (<b><font color='red'>CCF-A</font></b>). \[[PDF](https://proceedings.neurips.cc/paper_files/paper/2023/hash/3e53d82a1113e3d240059a9195668edc-Abstract-Conference.html)\]
 
