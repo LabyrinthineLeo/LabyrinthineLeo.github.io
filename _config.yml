@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Xiaoshan Yu"
-description              : "The academical personal homepage of Xiaoshan Yu."
+description              : "A Ph.D. candidate in Computer Science at Anhui University, specializing in Evolutionary Computation, Intelligent Education, and Recommender System."
 repository               : "LabyrinthineLeo/LabyrinthineLeo.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,10 +21,10 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Xiaoshan Yu (俞晓山)"
+  name             : "Xiaoshan Yu <br> (俞晓山)"
   avatar           : "images/android-chrome-512x512.png"
-  employer         : "Anhui University"
-  bio              : "A Ph.D. candidate in Computer Science at Anhui University, specializing in Evolutionary Computation, Intelligent Education, and Recommender System."
+  employer         : # "Anhui University"
+  bio              : "Anhui University"
   location         : "Hefei, China"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=8Wm_rZYAAAAJ"
