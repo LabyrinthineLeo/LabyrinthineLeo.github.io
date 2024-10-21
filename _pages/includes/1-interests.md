@@ -1,4 +1,4 @@
-# 💻 Research Interest
+# 💻 Research Interests
 1. <em><strong><span style="color: orange; text-decoration: underline;">Intelligent Education</span></strong></em>
   - Cognitive Diagnosis
   - Knowledge Tracing
