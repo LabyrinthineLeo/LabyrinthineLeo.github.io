@@ -21,11 +21,11 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Xiaoshan Yu(俞晓山)"
+  name             : "Xiaoshan Yu (俞晓山)"
   avatar           : "images/android-chrome-512x512.png"
+  employer         : "Anhui University"
   bio              : "A Ph.D. candidate in Computer Science at Anhui University, specializing in Evolutionary Computation, Intelligent Education, and Recommender System."
   location         : "Hefei, China"
-  employer         : "Anhui University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=8Wm_rZYAAAAJ"
   email            : "yxsleo@gmail.com"
