@@ -12,12 +12,11 @@
 
 **Xiaoshan Yu**, Chuan Qin\*, Dazhong Shen, Shangshang yang, Haiping Ma\*, Hengshu Zhu\*, and Xingyi Zhang
 
-*Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining*, 2024. [[PDF](https://doi.org/10.1145/3637528.3671711)][[CODE](https://github.com/LabyrinthineLeo/RIGL)]
+*Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining*, 2024. (<b><font color='red'>CCF-A</font></b>). [[PDF](https://doi.org/10.1145/3637528.3671711)][[CODE](https://github.com/LabyrinthineLeo/RIGL)]
 
 </div>
 </div>
 
-***
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TKDE 2024</div><img src='images/rdgt.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -26,12 +25,11 @@
 
 **Xiaoshan Yu**, Chuan Qin\*, Dazhong Shen, Haiping Ma\*, Le Zhang, Xingyi Zhang, Hengshu Zhu, and Hui Xiong
 
-*IEEE Transactions on Knowledge and Data Engineering*, 2024. [[PDF](https://ieeexplore.ieee.org/abstract/document/10388466)][[CODE](https://github.com/LabyrinthineLeo/RDGT)]
+*IEEE Transactions on Knowledge and Data Engineering*, 2024. (<b><font color='red'>CCF-A</font></b>). [[PDF](https://ieeexplore.ieee.org/abstract/document/10388466)][[CODE](https://github.com/LabyrinthineLeo/RDGT)]
 
 </div>
 </div>
 
-***
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICDM 2024</div><img src='images/disco.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -40,7 +38,7 @@
 
 **Xiaoshan Yu**, Chuan Qin\*, Qi Zhang, Chen Zhu, Haiping Ma\*, Xingyi Zhang, and Hengshu Zhu
 
-*IEEE International Conference on Data Mining (ICDM)*, 2024. [[PDF](https://arxiv.org/abs/2410.07671)][[CODE](https://github.com/LabyrinthineLeo/DISCO)]
+*IEEE International Conference on Data Mining (ICDM)*, 2024. (<b><font color='red'>CCF-B</font></b>). [[PDF](https://arxiv.org/abs/2410.07671)][[CODE](https://github.com/LabyrinthineLeo/DISCO)]
 
 </div>
 </div>

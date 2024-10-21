@@ -3,6 +3,9 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
+  - title: "Research Interests"
+    url: "/#-research-interests"
+
   - title: "News"
     url: "/#-news"
 
@@ -12,11 +15,9 @@ main:
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
 
-  - title: "Educations"
-    url: "/#-educations"
+  - title: "Educations and Experiences"
+    url: "/#-educations-and-experiences"
 
-  - title: "Invited Talks"
-    url: "/#-invited-talks"
+  - title: "Social Services"
+    url: "/#-social-services"
 
-  - title: "Internships"
-    url: "/#-internships"
