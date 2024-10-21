@@ -5,22 +5,45 @@
 
 ### In the year of 2024:
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2024</div><img src='images/EMO-NAS-CD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2024</div><img src='images/rigl.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-["An Evolutionary Multi-Objective Neural Architecture Search Approach to Advancing Cognitive Diagnosis in Intelligent Education"](https://ieeexplore.ieee.org/abstract/document/10599558/)
+"RIGL: A Unified Reciprocal Approach for Tracing the Independent and Group Learning Processes"
 
+**Xiaoshan Yu**, Chuan Qin\*, Dazhong Shen, Shangshang yang, Haiping Ma\*, Hengshu Zhu\*, and Xingyi Zhang
 
-**Shangshang Yang**, Haiping Ma, Ying Bi, Ye Tian, Limiao Zhang\*, Yaochu Jin, and Xingyi Zhang\*
+*Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining*, 2024. [[PDF](https://doi.org/10.1145/3637528.3671711)][[CODE](https://github.com/LabyrinthineLeo/RIGL)]
 
-*IEEE Transactions on Evolutionary Computation*, 2024
-
-[**Project**](https://github.com/DevilYangS/EMO-NAS-CD) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- The source code of the proposed EMO-NAS-CD approach, providing found models and the search approach to search for what you need  models.
 </div>
 </div>
 
 ***
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TKDE 2024</div><img src='images/rdgt.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+"RDGT: Enhancing Group Cognitive Diagnosis with Relation-Guided Dual-Side Graph Transformer"
+
+**Xiaoshan Yu**, Chuan Qin\*, Dazhong Shen, Haiping Ma\*, Le Zhang, Xingyi Zhang, Hengshu Zhu, and Hui Xiong
+
+*IEEE Transactions on Knowledge and Data Engineering*, 2024. [[PDF](https://ieeexplore.ieee.org/abstract/document/10388466)][[CODE](https://github.com/LabyrinthineLeo/RDGT)]
+
+</div>
+</div>
+
+***
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICDM 2024</div><img src='images/disco.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+"DISCO: A Hierarchical Disentangled Cognitive Diagnosis Framework for Interpretable Job Recommendation"
+
+**Xiaoshan Yu**, Chuan Qin\*, Qi Zhang, Chen Zhu, Haiping Ma\*, Xingyi Zhang, and Hengshu Zhu
+
+*IEEE International Conference on Data Mining (ICDM)*, 2024. [[PDF](https://arxiv.org/abs/2410.07671)][[CODE](https://github.com/LabyrinthineLeo/DISCO)]
+
+</div>
+</div>
 
 
 ## Representative Papers
