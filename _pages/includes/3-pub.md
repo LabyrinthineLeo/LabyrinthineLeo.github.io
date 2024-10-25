@@ -48,7 +48,7 @@
 
 ### In the year of 2024:
 
-- ``NeurIPS 2024`` "DisenGCD: A Meta Multigraph-assisted Disentangled Graph Learning Framework for Cognitive Diagnosis". Shangshang Yang, Mingyang Chen, Ziwen Wang, **Xiaoshan Yu**, Panpan Zhang, Haiping Ma\*, and Xingyi Zhang,  *in the Proceedings of the Thirty-eighth Conference on Neural Information Processing Systems*, 2024. (<b><font color='red'>CCF-A</font></b>). \[[PDF](https://xxx)\]
+- ``NeurIPS 2024`` "DisenGCD: A Meta Multigraph-assisted Disentangled Graph Learning Framework for Cognitive Diagnosis". Shangshang Yang, Mingyang Chen, Ziwen Wang, **Xiaoshan Yu**, Panpan Zhang, Haiping Ma\*, and Xingyi Zhang,  *in the Proceedings of the Thirty-eighth Conference on Neural Information Processing Systems*, 2024. (<b><font color='red'>CCF-A</font></b>). \[[PDF](https://www.arxiv.org/pdf/2410.17564)\]
 
 - ``IJCAI 2024`` "DGCD: An Adaptive Denoising GNN for Group-level Cognitive Diagnosis". Haiping Ma, Siyu Song, Chuan Qin\*, **Xiaoshan Yu**, Limiao Zhang\*, Xingyi Zhang, and Hengshu Zhu,  *in the Proceedings of the Thirty-Third International Joint Conference on Artificial Intelligence*, 2024. (<b><font color='red'>CCF-A</font></b>). \[[PDF](https://www.ijcai.org/proceedings/2024/0250.pdf)\]
 
