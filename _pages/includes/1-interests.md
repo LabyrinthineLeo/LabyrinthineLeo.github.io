@@ -11,3 +11,4 @@
   - Privacy-Preserving Learner Modeling
   - Fairness-Aware Learner Modeling
 3. <em><strong><span style="color: orange; text-decoration: underline;">Evolutionary Multi-objective Optimization for 1️⃣ & 2️⃣</span></strong></em> 
+4. <em><strong><span style="color: orange; text-decoration: underline;">Neural Combinatorial Optimization for 1️⃣ & 2️⃣</span></strong></em> 
