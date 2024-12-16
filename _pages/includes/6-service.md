@@ -3,3 +3,4 @@
 - The Program Committee of AAAI-24, AAAI-25.
 - The journal reviewer of Expert Systems With Applications.
 - The journal reviewer of Information Processing and Management.
+- The journal reviewer of Applied Intelligence.
