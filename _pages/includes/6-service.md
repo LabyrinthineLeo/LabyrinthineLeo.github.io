@@ -1,6 +1,14 @@
 # 🧑‍🎨 Social Services
-- The conference reviewer of SIGKDD, ICLR, WWW, and ECML-PKDD.
-- The Program Committee of AAAI-24, AAAI-25.
-- The journal reviewer of Expert Systems With Applications.
-- The journal reviewer of Information Processing and Management.
-- The journal reviewer of Applied Intelligence.
+- Journal Reviewer
+  - Expert Systems With Applications
+  - Information Processing and Management
+  - Applied Intelligence
+  
+- Program Committee Member (Conference)
+  - AAAI-24/25
+  - WWW-24/25
+  - ICLR-25
+  - ICML-25
+  - SIGKDD-24
+  - ECML-PKDD-23
+  - IJCNN-25
